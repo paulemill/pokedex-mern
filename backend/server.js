@@ -19,7 +19,7 @@ mongoose
 // CORS config
 const allowedOrigins = [
   'http://localhost:5173',
-  'https://pokedex-frontend-jawq.onrender.com/api', // Replace with your actual deployed frontend URL
+  'https://pokedex-frontend-jawq.onrender.com/', // Replace with your actual deployed frontend URL
 ];
 
 // Middleware
